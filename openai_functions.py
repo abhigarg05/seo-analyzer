@@ -1,7 +1,7 @@
 from openai import OpenAI
 import instructor
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="TpvybhSVt2U90SaQKr3ep8MIA")
 
 import instructor
 instructor.patch(client)
